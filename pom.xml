@@ -9,11 +9,10 @@
 	<description>mediation-test</description>
 
 	<scm>
-		<connection>scm:git:git://github.com/manojgunayadev/testRepo1.git</connection>
-		
-                <!--<developerConnection>scm:git:git@github.com/manojgunayadev/testRepo1.git</developerConnection>
-		<url>https://github.com/manojgunayadev/testRepo1</url>
-		 <tag>1.0.0</tag> -->
+		<connection>scm:git:git://github.com/wso2telco/testRepo1.git</connection>
+		<developerConnection>scm:git:git@github.com:wso2telco/testRepo1.git</developerConnection>
+		<url>https://github.com/wso2telco/testRepo1/</url>
+
 	  <tag>1.0.0</tag>
   </scm>
 
