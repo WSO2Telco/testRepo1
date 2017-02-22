@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mediation.test</groupId>
 	<artifactId>mediation-test</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>mediation-test</name>
 	<description>mediation-test</description>
@@ -99,10 +99,16 @@
         </pluginRepository>
 </pluginRepositories>
 <distributionManagement>
-  <repository>
-    <id>bintray</id>
-    <url>file:///home/manoj/support/telco/release</url>
-  </repository>
-</distributionManagement>
+       <repository>
+           <id>deployment</id>
+           <name>Internal Releases</name>
+           <url>file:///home/manoj/support/telco/releases/</url>
+       </repository>
+       <snapshotRepository>
+           <id>deployment</id>
+           <name>Internal Snapshot Releases</name>
+           <url>file:///home/manoj/support/telco/snapshots/</url>
+       </snapshotRepository>
+   </distributionManagement>
 
 </project>
