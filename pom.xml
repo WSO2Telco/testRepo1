@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mediation.test</groupId>
 	<artifactId>mediation-test</artifactId>
-	<version>1.0.8-SNAPSHOT</version>
+	<version>1.0.9-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>mediation-test</name>
 	<description>mediation-test</description>
@@ -107,7 +107,7 @@
            <url>file:///home/manoj/support/telco/release/</url>
        </repository>
        <snapshotRepository>
-           <id>deployment</id>
+           <id>snapshots</id>
            <name>Internal Snapshot Releases</name>
            <url>file:///home/manoj/support/telco/release/snapshots/</url>
        </snapshotRepository>
