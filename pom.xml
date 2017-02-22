@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mediation.test</groupId>
 	<artifactId>mediation-test</artifactId>
-	<version>1.0.6-SNAPSHOT</version>
+	<version>1.0.7-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>mediation-test</name>
 	<description>mediation-test</description>
@@ -85,8 +85,8 @@
 	<modules>
 		<module>com.mediation.test.synapse</module>
 		<module>com.mediation.test.capp</module>
-
-	</modules>
+    <module>com.mediation.test.java</module>
+  </modules>
 	
 		    <pluginRepositories>
         <pluginRepository>
