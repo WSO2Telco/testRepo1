@@ -32,7 +32,7 @@
 			<plugin>
 				<artifactId>maven-release-plugin</artifactId>
 				<version>2.5</version>
-				<!-- 
+				
 				<configuration>
 					<preparationGoals>
 						org.wso2.maven:wso2-release-helper-plugin:1.0.1:prepare-release
@@ -42,7 +42,7 @@
 					</completionGoals>
 					<tagBase>https://github.com/manojgunayadev/mediation-dep-gw/tree</tagBase>
 				</configuration>
-				-->
+				
 			</plugin>
 			
 		<!-- 
