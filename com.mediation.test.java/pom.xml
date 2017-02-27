@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.mediation.test</groupId>
-     <version>1.0.17-SNAPSHOT</version>
+     <version>1.0.17</version>
     <artifactId>mediation-test</artifactId>
   </parent>
   <groupId>com.mediation.test.java</groupId>
-  <version>1.0.17-SNAPSHOT</version>
+  <version>1.0.17</version>
   <artifactId>com.mediation.test.java</artifactId>
   
   <name>com.mediation.test.java</name>
