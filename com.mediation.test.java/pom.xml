@@ -3,12 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.mediation.test</groupId>
+     <version>1.0.15-SNAPSHOT</version>
     <artifactId>mediation-test</artifactId>
-    <version>1.0.15-SNAPSHOT</version>
   </parent>
   <groupId>com.mediation.test.java</groupId>
-  <artifactId>com.mediation.test.java</artifactId>
   <version>1.0.15-SNAPSHOT</version>
+  <artifactId>com.mediation.test.java</artifactId>
+  
   <name>com.mediation.test.java</name>
   <url>http://maven.apache.org</url>
   <properties>
