@@ -126,9 +126,9 @@
     </plugins>
   </build>
   <parent>
-  	<artifactId>mediation-test</artifactId>
   	<groupId>com.mediation.test</groupId>
   	<version>1.0.15-SNAPSHOT</version>
+        <artifactId>com.mediation.test</artifactId>
   	<relativePath>../pom.xml</relativePath>
   </parent>
 </project>
