@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mediation.test</groupId>
-	<version>1.0.16</version>
+	<version>1.0.17-SNAPSHOT</version>
 	<artifactId>mediation-test</artifactId>
 	
 	<packaging>pom</packaging>
@@ -14,7 +14,7 @@
 		<developerConnection>scm:git:https://github.com/wso2telco/testRepo1.git</developerConnection>
 		<url>https://github.com/wso2telco/testRepo1/</url>
 
-                <tag>1.0.16</tag>
+                <tag>HEAD</tag>
   </scm>
 
 
